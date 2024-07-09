@@ -1,0 +1,16 @@
+C:\Users\my pc\Desktop\Exercises\Question2\bin\Debug\net8.0-windows\Question2.exe
+C:\Users\my pc\Desktop\Exercises\Question2\bin\Debug\net8.0-windows\Question2.deps.json
+C:\Users\my pc\Desktop\Exercises\Question2\bin\Debug\net8.0-windows\Question2.runtimeconfig.json
+C:\Users\my pc\Desktop\Exercises\Question2\bin\Debug\net8.0-windows\Question2.dll
+C:\Users\my pc\Desktop\Exercises\Question2\bin\Debug\net8.0-windows\Question2.pdb
+C:\Users\my pc\Desktop\Exercises\Question2\obj\Debug\net8.0-windows\Question2.Form1.resources
+C:\Users\my pc\Desktop\Exercises\Question2\obj\Debug\net8.0-windows\Question2.csproj.GenerateResource.cache
+C:\Users\my pc\Desktop\Exercises\Question2\obj\Debug\net8.0-windows\Question2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\my pc\Desktop\Exercises\Question2\obj\Debug\net8.0-windows\Question2.AssemblyInfoInputs.cache
+C:\Users\my pc\Desktop\Exercises\Question2\obj\Debug\net8.0-windows\Question2.AssemblyInfo.cs
+C:\Users\my pc\Desktop\Exercises\Question2\obj\Debug\net8.0-windows\Question2.csproj.CoreCompileInputs.cache
+C:\Users\my pc\Desktop\Exercises\Question2\obj\Debug\net8.0-windows\Question2.dll
+C:\Users\my pc\Desktop\Exercises\Question2\obj\Debug\net8.0-windows\refint\Question2.dll
+C:\Users\my pc\Desktop\Exercises\Question2\obj\Debug\net8.0-windows\Question2.pdb
+C:\Users\my pc\Desktop\Exercises\Question2\obj\Debug\net8.0-windows\Question2.genruntimeconfig.cache
+C:\Users\my pc\Desktop\Exercises\Question2\obj\Debug\net8.0-windows\ref\Question2.dll
