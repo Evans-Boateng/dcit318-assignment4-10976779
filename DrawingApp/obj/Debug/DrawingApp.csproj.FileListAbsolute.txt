@@ -1,0 +1,9 @@
+C:\Users\my pc\Desktop\Exercises\DrawingApp\obj\Debug\DrawingApp.csproj.AssemblyReference.cache
+C:\Users\my pc\Desktop\Exercises\DrawingApp\obj\Debug\DrawingApp.Properties.Resources.resources
+C:\Users\my pc\Desktop\Exercises\DrawingApp\obj\Debug\DrawingApp.csproj.GenerateResource.cache
+C:\Users\my pc\Desktop\Exercises\DrawingApp\obj\Debug\DrawingApp.csproj.CoreCompileInputs.cache
+C:\Users\my pc\Desktop\Exercises\DrawingApp\bin\Debug\DrawingApp.exe.config
+C:\Users\my pc\Desktop\Exercises\DrawingApp\bin\Debug\DrawingApp.exe
+C:\Users\my pc\Desktop\Exercises\DrawingApp\bin\Debug\DrawingApp.pdb
+C:\Users\my pc\Desktop\Exercises\DrawingApp\obj\Debug\DrawingApp.exe
+C:\Users\my pc\Desktop\Exercises\DrawingApp\obj\Debug\DrawingApp.pdb
